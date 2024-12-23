@@ -1,6 +1,6 @@
 ---
 title: Looking Back At 2024
-author: Jeremy Selva [`r fontawesome::fa(name = "linkedin", fill = "#0077ac")`](https://www.linkedin.com/in/jeremy-selva-085b9112a/){target="_blank"} <br> @JauntyJJS [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "fab fa-square-x-twitter", fill = "#000000")`](https://twitter.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "bluesky", fill = "#1084ff")`](https://bsky.app/profile/jauntyjjs.bsky.social){target="_blank"} [`r fontawesome::fa(name = "mastodon", fill = "#5f53e7")`](https://fosstodon.org/@JauntyJJS){target="_blank"}
+author: Jeremy Selva [`r fontawesome::fa(name = "linkedin", fill = "#0077ac")`](https://www.linkedin.com/in/jeremy-selva-085b9112a/){target="_blank"} <br> @JauntyJJS [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "fab fa-square-x-twitter", fill = "#000000")`](https://twitter.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "bluesky", fill = "#1084ff")`](https://bsky.app/profile/jauntyjjs.bsky.social){target="_blank"} [`r fontawesome::fa(name = "mastodon", fill = "#5f53e7")`](https://fosstodon.org/@JauntyJJS){target="_blank"} <br> <https://jeremy-selva.netlify.app/>{target="_blank"}
 date: 2024-12-26
 date-format: "D[<sup style='font-size:65%;font-style:italic;'>th</sup>] MMMM YYYY"
 format: 
@@ -363,13 +363,21 @@ to top</a> @cr-carols
 ::: cr-section
 ## Dance Fitness Progress
 
+:::{focus-on="cr-boy-cry"}
+
 During childhood, I was not physically active as I was not good in
-sports and other fitness related activities.<br><br>I still remember
+sports and other fitness related activities.
+
+I still remember
 that I was scolded during a kickboxing class for punching like a girl,
 move as if I was dancing, falling down most of the time and even
 punching the instructor by mistake because I was afraid and closed my
-eyes.<br><br>Most people warned be that I would suffer greatly when I
-entered military life. @cr-boy-cry
+eyes.
+
+Most people warned be that I would suffer greatly when I
+entered military life.
+
+:::
 
 There was a period after graduating from university that I wanted to
 find a physical activity that I can cope and enjoy in spite of my bad
@@ -391,13 +399,19 @@ or her husband
 to top</a> @cr-dance-photos
 
 ::: {#cr-boy-cry .scale-to-fill}
-![Cartoon little boy crying by
-[Vecteezy](https://www.vecteezy.com/vector-art/15219850-cartoon-little-boy-crying-on-white-background){target="_blank"}](images/cartoon-little-boy-crying.jpg){fig-alt="Cartoon of a little boy crying." fig-align="center"}
+
+![](images/cartoon-little-boy-crying.jpg){fig-alt="Cartoon of a little boy crying." fig-align="center"}
+
+Cartoon little boy crying by [Vecteezy](https://www.vecteezy.com/vector-art/15219850-cartoon-little-boy-crying-on-white-background){target="_blank"}
+
 :::
 
 ::: {#cr-dance-fitness .scale-to-fill}
-![People participating together in a fitness dance class by
-[Freepik](https://www.freepik.com/free-vector/people-participating-together-fitness-dance-class_12980311.htm){target="_blank"}](images/people-participating-together-fitness-dance-class.jpg){fig-alt="Cartoon of people participating together in a fitness dance class." fig-align="center"}
+
+![](images/people-participating-together-fitness-dance-class.jpg){fig-alt="Cartoon of people participating together in a fitness dance class." fig-align="center"}
+
+People participating together in a fitness dance class by [Freepik](https://www.freepik.com/free-vector/people-participating-together-fitness-dance-class_12980311.htm){target="_blank"}
+
 :::
 
 ::: {#cr-dance-photos .scale-to-fill}
@@ -498,20 +512,26 @@ As long as we are still alive, it is never too late to make the best use of it.<
 to top</a> @cr-life_is
 
 ::: {#cr-embarrass .scale-to-fill}
-![Timid man covering face with hand and peeking through, embarrassing,
-feeling sorry, shying in
-[Vecteezy](https://www.vecteezy.com/vector-art/7938804-vector-concept-illustration-of-timid-man-covering-face-with-hand-and-peeking-through-embarrassing-feeling-sorry-shying-flat-cartoon-style){target="_blank"}](images/timid-man-covering-face.jpg){fig-alt="Cartoon of a timid man covering his face with his hand and peeking through." fig-align="center" width="70%"}
+
+![](images/timid-man-covering-face.jpg){fig-alt="Cartoon of a timid man covering his face with his hand and peeking through." fig-align="center" width="70%"}
+
+Timid man covering face with hand and peeking through, embarrassing, feeling sorry, shying in [Vecteezy](https://www.vecteezy.com/vector-art/7938804-vector-concept-illustration-of-timid-man-covering-face-with-hand-and-peeking-through-embarrassing-feeling-sorry-shying-flat-cartoon-style){target="_blank"}
+
 :::
 
 ::: {#cr-eggs .scale-to-fill}
-![Eggs in tray on white surface by [Daniel
-Reche](https://www.pexels.com/@daniel-reche-718241/){target="_blank"} in
-[Pexels](https://www.pexels.com/photo/eggs-in-tray-on-white-surface-1556707/){target="_blank"}](images/eggs_in_tray_on_white_surface.jpg){fig-alt="Cartoon of a few white eggs in an egg carton being hostile to a brown egg because it looks different." fig-align="center"}
+
+![](images/eggs_in_tray_on_white_surface.jpg){fig-alt="Cartoon of a few white eggs in an egg carton being hostile to a brown egg because it looks different." fig-align="center"}
+
+Eggs in tray on white surface by [Daniel Reche](https://www.pexels.com/@daniel-reche-718241/){target="_blank"} in [Pexels](https://www.pexels.com/photo/eggs-in-tray-on-white-surface-1556707/){target="_blank"}
+
 :::
 
 ::: {#cr-black-dot .scale-to-fill}
 
-![Output from [Gemini 1.5 Flash](https://gemini.google.com/){target="_blank"} using prompt "Black pen making a dot on a white paper"](images/black_dot.jpg){fig-alt="Black pen making a dot on a white paper" fig-align="center"width="70%"}
+![](images/black_dot.jpg){fig-alt="Black pen making a dot on a white paper" fig-align="center"width="70%"}
+
+Output from [Gemini 1.5 Flash](https://gemini.google.com/){target="_blank"} using prompt "Black pen making a dot on a white paper"
 
 :::
 
@@ -531,7 +551,9 @@ Reche](https://www.pexels.com/@daniel-reche-718241/){target="_blank"} in
 
 ::: {#cr-life_is .scale-to-fill}
 
-![Life is a gift from God poster from [Char Kantha Martin Facebook post](https://www.facebook.com/groups/620889571585087/posts/2293341987673162/){target="_blank"}](images/life_is.jpg){fig-alt="Infograph showing that each person is given the gift of life to live, learn and to live a legacy." fig-align="center"}
+![](images/life_is.jpg){fig-alt="Infograph showing that each person is given the gift of life to live, learn and to live a legacy." fig-align="center"}
+
+Life is a gift from God poster from [Char Kantha Martin Facebook post](https://www.facebook.com/groups/620889571585087/posts/2293341987673162/){target="_blank"}
 
 :::
 
