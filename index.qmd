@@ -1,0 +1,606 @@
+---
+title: Looking Back At 2024
+author: Jeremy Selva [`r fontawesome::fa(name = "linkedin", fill = "#0077ac")`](https://www.linkedin.com/in/jeremy-selva-085b9112a/){target="_blank"} <br> @JauntyJJS [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "fab fa-square-x-twitter", fill = "#000000")`](https://twitter.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "bluesky", fill = "#1084ff")`](https://bsky.app/profile/jauntyjjs.bsky.social){target="_blank"} [<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#5f53e7;overflow:visible;position:relative;"><path d="M433 179.1c0-97.2-63.7-125.7-63.7-125.7-62.5-28.7-228.6-28.4-290.5 0 0 0-63.7 28.5-63.7 125.7 0 115.7-6.6 259.4 105.6 289.1 40.5 10.7 75.3 13 103.3 11.4 50.8-2.8 79.3-18.1 79.3-18.1l-1.7-36.9s-36.3 11.4-77.1 10.1c-40.4-1.4-83-4.4-89.6-54a102.5 102.5 0 0 1 -.9-13.9c85.6 20.9 158.7 9.1 178.8 6.7 56.1-6.7 105-41.3 111.2-72.9 9.8-49.8 9-121.5 9-121.5zm-75.1 125.2h-46.6v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.3V197c0-58.5-64-56.6-64-6.9v114.2H90.2c0-122.1-5.2-147.9 18.4-175 25.9-28.9 79.8-30.8 103.8 6.1l11.6 19.5 11.6-19.5c24.1-37.1 78.1-34.8 103.8-6.1 23.7 27.3 18.4 53 18.4 175z"/></svg>](https://fosstodon.org/@JauntyJJS){target="_blank"}
+date: 2024-12-26
+date-format: "D[<sup style='font-size:65%;font-style:italic;'>th</sup>] MMMM YYYY"
+format: closeread-html
+---
+
+```{r}
+#| label: for scrolly telling
+#| include: false
+
+library(fontawesome)
+library(knitr)
+library(yaml)
+library(rmarkdown)
+library(fs)
+library(dplyr)
+library(quarto)
+library(sessioninfo)
+library(reactable)
+
+out_type <- knitr::opts_chunk$get("rmarkdown.pandoc.to")
+```
+
+As some of the people that I have followed ([Crystal Lewis](https://cghlewis.com/blog/year_2024/){target="_blank"} and [Ken Vũ](https://kvu777.quarto.pub/the-r-files/posts/every_data_point_everywhere_all_at_once/){target="_blank"}) on social media 
+have written their current life's journey and reflections for 2024 and I also wanted to try out the
+new [scrollytelling feature in
+Quarto](https://closeread.netlify.app/){target="_blank"}. 
+I have decided to try something new this year and write my own 2024 reflections using this new Quarto feature.
+
+Here goes nothing...
+
+<a name="top"></a>
+
+## Table of Content
+
+-   [R4DS Book Club Cohort 9]
+-   [Interprofessional Practice & Education (IPE) Day 2024: Building
+    Bridges, Breaking
+    Barriers](#interprofessional-practice-education-ipe-day-2024-building-bridges-breaking-barriers)
+-   [Sing On 3]
+-   [International Krakow Choir Festival *Cracovia Cantans* 2024]
+-   [useR! 2024]
+-   [European Society of Cardiology (ESC) Congress
+    2024](#european-society-of-cardiology-esc-congress-2024)
+-   [R User Group Singapore (RUGS) November
+    Meetup](#r-user-group-singapore-rugs-november-meetup)
+-   [Giving Back In December]
+-   [Dance Fitness Progress]
+-   [Reflections]
+
+::: cr-section
+## R4DS Book Club Cohort 9
+
+Despite an unpredictable working schedule in the hospital, I tried to
+attend the R for Data Science (R4DS) book club cohort 9, hosted by
+[Lydia](https://linktr.ee/lgibson7){target="_blank"} and
+[Ken](https://linktr.ee/kenvu){target="_blank"} since August 2023 at a
+weekly basis in the [Data Science Learning
+Community](https://dslc.io/){target="_blank"} (DSLC) slack
+group.<br><br>Join the DSLC slack page at
+[https://dslc.io/join](https://dslc.io/join){target="_blank"} @cr-DSLC
+
+It is hard for me to believe that I could stay on with this cohort till
+the end when the cohort had the last meeting around February 2024. I
+ended up making some new friends online as well.<br><br>See playlist at
+[https://www.youtube.com/playlist?list=PL3x6DOfs2NGjVMs1NtbWu4s_ZgGhGKnrN](https://www.youtube.com/playlist?list=PL3x6DOfs2NGjVMs1NtbWu4s_ZgGhGKnrN){target="_blank"}<br><br><a href="#top">Back
+to top</a> @cr-R4DS
+
+::: {#cr-DSLC .scale-to-fill}
+![](images/DSLC.jpg){fig-alt="Preview of the R for Data Science book club in the Data Science Learning Community slack page."}
+:::
+
+::: {#cr-R4DS .scale-to-fill}
+<iframe width="1100" height="600" src="https://www.youtube-nocookie.com/embed/videoseries?si=nMzgJNiiCfUiegpi&amp;list=PL3x6DOfs2NGjVMs1NtbWu4s_ZgGhGKnrN" title="R for Data Science Book Club Cohort 9 youtube playlist." frameborder="0" allowfullscreen>
+
+</iframe>
+:::
+
+:::
+
+::: cr-section
+## Interprofessional Practice & Education (IPE) Day 2024: Building Bridges, Breaking Barriers {#interprofessional-practice-education-ipe-day-2024-building-bridges-breaking-barriers}
+
+I had attended [IPE
+day](https://www.singhealthdukenus.com.sg/amei/pages/ciphe-events.aspx){target="_blank"}
+for the first time on 29 Feb 2024. It was an opportunity for healthcare
+professional to meet up, share and learn how to improve collaboration
+and the quality of care for patients. @cr-IPE
+
+I initially thought that I would be lonely as I was a research officer
+who had just started his job in less than a year. However, I was wrong.
+The people that I had met were friendly and just wanted to know me as a
+person, rather than my limited background in the medical field. [@cr-IPE]{pan-to="500px, 500px" scale-by="2.3"}
+
+One of the highlights of the event is NN**IPE**NDO. It is based on a
+collaborative game inspired by a popular multiplayer game,
+[Overcooked](https://www.team17.com/games/overcooked){target="_blank"}.
+The objective was to earn the most gold coins by making dishes within
+the limitations of each team member's assigned role.<br><br>I was
+assigned as the cook and had to cut and paste ingredients on the paper
+to create a dish but I could not leave the table to get the ingredients.
+The role turned out to be great for a quiet observer (and data cleaner)
+like me as I am able to create the dishes quickly in spite of the many
+ingredients scattered across the table. The team that I was in managed
+to get second place.<br><br><a href="#top">Back to top</a> @cr-NNI
+
+::: {#cr-IPE .scale-to-fill}
+![](images/IPE_2024_1.jpg){fig-alt="Group photo taken during the Interprofessional Practice & Education Day 2024."}
+:::
+
+::: {#cr-NNI}
+![](images/IPE_2024_2.jpg){fig-alt="My team playing a collaborative game inspired by a popular multiplayer game Overcooked."}
+:::
+
+:::
+
+::: cr-section
+## Sing On 3
+
+Not many people may know this but I am actually in a [university alumni
+choir](https://linktr.ee/ntuchoir_alumni){target="_blank"}. For someone with limited background and interest in music, it
+seems like a miracle that I have been in this singing group for close to
+10 years. @cr-singonchoir
+
+For now, I belong to the Tenor section in the choir. @cr-singontenor
+
+On April, the choir managed to have their own concert called Sing On 3:
+Contemplation.<br><br>![](images/Sing_On_3.jpg){fig-alt="Poster of Sing On 3 Choir concert."}<br><br>Here is the
+[link](https://www.canva.com/design/DAGAhglonYU/s_2MjlLOdPU46IWf7_3jcg/view?utm_content=DAGAhglonYU&utm_campaign=designshare&utm_medium=link&utm_source=viewer){target="_blank"}
+to the program booklet. @cr-singonconcert
+
+Learning and memorizing new scores was a challenge for me but I still
+managed to pull through a decent performance and catch up with my
+university classmates along the way.<br><br><a href="#top">Back to
+top</a> @cr-singonfriends
+
+::: {#cr-singonchoir .scale-to-fill}
+![](images/Sing_On_Choir_1.jpg){fig-alt="Choir group photo taken of us laughing for Sing on 3 choir concert." fig-align="center" width="70%"}
+![](images/Sing_On_Choir_2.jpg){fig-alt="Choir group photo taken of us smiling for Sing on 3 choir concert." fig-align="center" width="70%"}
+:::
+
+::: {#cr-singontenor}
+![](images/Sing_On_Tenor.jpg){fig-alt="Tenors group photo taken for Sing on 3 choir concert."}
+:::
+
+::: {#cr-singonconcert .scale-to-fill}
+![](images/Sing_On_Concert.jpg){fig-alt="Formal choir group photo taken during Sing on 3 choir concert."}
+:::
+
+::: {#cr-singonfriends .scale-to-fill}
+![](images/Sing_On_Me.jpg){fig-alt="Picture of me singing during Sing on 3 choir concert." fig-align="center" width="70%"}
+![](images/Sing_On_Friends.jpg){fig-alt="Picture of me with my university classmates after Sing on 3 choir concert." fig-align="center" width="70%"}
+:::
+
+:::
+
+::: cr-section
+## International Krakow Choir Festival *Cracovia Cantans* 2024
+
+I was then taken for a wild ride when the choir was preparing for a
+[choir
+competition](https://www.cracoviacantans.com/previous_editions2024.html){target="_blank"}
+in Krakow, Poland on June 2024. Practice during the period of May was
+intense as I was not used to learning and memorising scores for a very
+short time and was afraid that my body could not keep up with the long
+hours of singing. @cr-krakowperform
+
+Nevertheless, the choir managed to obtain a silver diploma in the mixed
+choir adults category and a gold diploma in the popular & folk music,
+gospel, spirituals category.<br><br><a href="#top">Back to top</a>
+@cr-krakowawards
+
+::: {#cr-krakowperform .scale-to-fill}
+![](images/krakow_perform.jpg){fig-alt="Picture of the choir singing in the International Krakow Choir Festival Cracovia Cantans 2024."}
+:::
+
+::: {#cr-krakowawards .scale-to-fill}
+![](images/krakow_awards.jpg){fig-alt="Picture of the choir with the diplomas in the International Krakow Choir Festival Cracovia Cantans 2024." fig-align="center" width="60%"}
+
+
+:::
+
+:::
+
+::: cr-section
+## useR! 2024
+
+On July, I was given the chance to attend the [useR! 2024
+conference](https://events.linuxfoundation.org/user/){target="_blank"}
+at Salzburg, Austria. I am grateful to the organizers for accepting my
+abstract and National Heart Centre Singapore for letting me spend some
+quality time with the R community. @cr-useR2024
+
+During the conference, I had presented some data extraction and
+validation tips on how to deal with formatted tabular data from Excel.
+@cr-useR2024-present
+
+Despite my introvert nature, I managed to make new connections like
+Thomas Vroylandt, Wenjie Sun, Reiko Okamoto, Juan Claramunt, Shannon
+Pileggi, Kelly Bodwin, Evan Masango, Binod Jung Bogati and many others
+who are interested in what I do.<br><br>By pure serendipity, I also won
+a book while playing a small game at the
+[cynkra](https://www.cynkra.com/){target="_blank"} booth and had it
+signed by [David Granjon](https://david.rinterface.com/){target="_blank"}, the author.<br><br><a href="#top">Back to
+top</a> @cr-useR2024-book
+
+::: {#cr-useR2024 .scale-to-fill}
+![](images/useR!_2024.jpg){fig-alt="Picture of me in the useR! 2024 conference in Salzburg, Austria." fig-align="center"}
+:::
+
+::: {#cr-useR2024-present .scale-to-fill}
+<iframe width="1100" height="620" src="https://jauntyjjs.github.io/useR-2024/" title="Slides for Tackling Formatted Tabular Data from Excel.">
+
+</iframe>
+:::
+
+::: {#cr-useR2024-book .scale-to-fill}
+![](images/useR!_book.jpg){fig-alt="Picture of an autographed book titled Outstanding User interfaces with Shiny by David Granjon that I have won during the useR! 2024 conference." fig-align="center" width="80%"}
+:::
+
+:::
+
+::: cr-section
+## European Society of Cardiology (ESC) Congress 2024 {#european-society-of-cardiology-esc-congress-2024}
+
+As a research officer from [National Heart Centre Singapore](https://www.nhcs.com.sg/){target="_blank"}, I am heavily
+involved in the [Global Pretest Probability Study of Coronary Artery
+Disease (GPS-CAD)
+study](https://clinicaltrials.gov/study/NCT05722145){target="_blank"}.<br><br>My
+task involves collecting, cleaning and harmonising clinical data from at
+least fourteen different hospitals and clinical trials. The harmonised
+data are then sent to other data analysts and statisticians for further
+analysis. @cr-gpscad-intro
+
+August 2024 was a significant milestone for the study as it was
+presented during a late breaking science session in the [European
+Society of Cardiology (ESC)
+Congress](https://esc365.escardio.org/esc-congress){target="_blank"} at
+London.<br><br><a href="#top">Back to top</a> @cr-gpscad-present
+
+::: {#cr-gpscad-intro .scale-to-fill}
+![](images/gpscad_intro.jpg){fig-alt="Picture introducing the Global Pretest Probability Study of Coronary Artery Disease Study which aims to explore current risk predictions and pretest probability tools from large cardiac computed computed tomography studies and cohorts worldwide."}
+:::
+
+::: {#cr-gpscad-present .scale-to-fill}
+![](images/gpscad_present.jpg){fig-alt="Picture showing my manager presenting the Global Pretest Probability Study of Coronary Artery Disease Study in the European Society of Cardiology Congress 2024."}
+:::
+
+:::
+
+::: cr-section
+## R User Group Singapore (RUGS) November Meetup {#r-user-group-singapore-rugs-november-meetup}
+
+It started when an R enthusiast, [Nien
+Xian](https://www.nienxiangtou.com/){target="_blank"} contacted me via
+Linkedin around March 2024 and expressed interest in meeting other R
+users in Singapore. This led to a series of events that caused the
+revivial of the [R User Group Singapore (RUGS)
+Meetup](https://www.meetup.com/r-user-group-sg/){target="_blank"} on
+November 2024 after its hiatus for a few years, in spite of limited
+experience and resources.<br><br><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7270729034731266048" height="500" width="400" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> @cr-rugs
+
+During the event, I had presented how to create a simple [Quarto
+dashboard](https://quarto.org/docs/dashboards/){target="_blank"} of
+Singapore’s Fertility rate using the fertility and live birth datasets
+that was available at <https://data.gov.sg/> @cr-rugs-present
+
+Here is how the [fertility
+dashboard](https://jauntyjjs.github.io/fertility_dashboard/){target="_blank"}
+looks like<br><br><a href="#top">Back to top</a> @cr-rugs-dashboard
+
+::: {#cr-rugs .scale-to-fill}
+![](images/rugs.jpg){fig-alt="Poster advetising the R User Group Singapore meetup during late November." fig-align="center" width="80%"}
+:::
+
+::: {#cr-rugs-present .scale-to-fill}
+<iframe width="1100" height="620" src="https://jauntyjjs.github.io/rugs_20241129" title="Slides for Introduction to Quarto Dashboard.">
+
+</iframe>
+:::
+
+::: {#cr-rugs-dashboard .scale-to-fill}
+<iframe width="1400" height="750" src="https://jauntyjjs.github.io/fertility_dashboard/" title="Slides for Introduction to Quarto Dashboard.">
+
+</iframe>
+:::
+
+:::
+
+## Giving Back In December
+
+::: cr-section
+
+When people asked me what I would be doing during the festive season of November and December, 
+I usually reply that I will be assisting the [university choir](https://www.instagram.com/ntuchoir/){target="_blank"}
+in caroling as an alumni 
+to spread the joy of the Christmas season.<br><br>
+However, after the Covid-19 pandemic, I was not able to do this for a few years due to a reservist 
+commitment and not being able to accumulate enough leave from work to help out as I only 
+started by new job as a research officer in 
+[National Heart Centre Singapore](https://www.nhcs.com.sg/){target="_blank"} 
+in 2023.<br><br>This year, I feel blessed that I was able to return and help out once again. 
+There is always something magical in caroling that is able to connect people together.
+<br><br>Here are some videos and photos that was taken by some of the univeristy's choir members.<br><br><a href="#top">Back
+to top</a> @cr-carols
+
+::: {#cr-carols .scale-to-fill}
+::: panel-tabset
+### Photo 1
+
+![](images/carols_1.jpg){fig-alt="Picture of me with the univeristy choir." fig-align="center" width="50%"}
+
+### Photo 2
+
+![](images/carols_2.jpg){fig-alt="Picture of me with the univeristy choir." fig-align="center" width="50%"}
+
+### Video
+
+{{< video images/carols.mp4 width="700" height="500">}}
+
+:::
+
+:::
+
+:::
+
+::: cr-section
+## Dance Fitness Progress
+
+During childhood, I was not physically active as I was not good in
+sports and other fitness related activities.<br><br>I still remember
+that I was scolded during a kickboxing class for punching like a girl,
+move as if I was dancing, falling down most of the time and even
+punching the instructor by mistake because I was afraid and closed my
+eyes.<br><br>Most people warned be that I would suffer greatly when I
+entered military life. @cr-boy-cry
+
+There was a period after graduating from university that I wanted to
+find a physical activity that I can cope and enjoy in spite of my bad
+experiences in the past.<br><br>I tried different things from yoga to
+mixed martial art and then realized that dance fitness was for me (even
+though it is more popular activity for woman rather than man) not
+because I was good at dancing but like the R community, the people were
+friendly and willing to guide me on the dance steps. @cr-dance-fitness
+
+I then started doing Kpop X Fitness around 7 years ago and later Zumba
+in 2020 from instructor
+[Jaenny](https://www.instagram.com/just.being.jaenny/){target="_blank"}
+during the COVID period when I feel that I am able to handle a full
+one-hour class. Here are some videos and photos that was taken this year
+by
+[Jaenny](https://www.instagram.com/just.being.jaenny/){target="_blank"}
+or her husband
+[James](https://www.instagram.com/jiemisi/){target="_blank"}.<br><br><a href="#top">Back
+to top</a> @cr-dance-photos
+
+::: {#cr-boy-cry .scale-to-fill}
+![Cartoon little boy crying by
+[Vecteezy](https://www.vecteezy.com/vector-art/15219850-cartoon-little-boy-crying-on-white-background){target="_blank"}](images/cartoon-little-boy-crying.jpg){fig-alt="Cartoon of a little boy crying." fig-align="center"}
+:::
+
+::: {#cr-dance-fitness .scale-to-fill}
+![People participating together in a fitness dance class by
+[Freepik](https://www.freepik.com/free-vector/people-participating-together-fitness-dance-class_12980311.htm){target="_blank"}](images/people-participating-together-fitness-dance-class.jpg){fig-alt="Cartoon of people participating together in a fitness dance class." fig-align="center"}
+:::
+
+::: {#cr-dance-photos .scale-to-fill}
+::: panel-tabset
+### National Day Photo
+
+![](images/national_day.jpg){fig-alt="Pictures of me with the dance fitness community taken during Singapore's National Day." fig-align="center" width="50%"}
+
+### Deepavali Photo
+
+![](images/deepavali_dance.jpg){fig-alt="Pictures of me with the dance fitness community taken during Deepavali." fig-align="center" width="70%"}
+
+### Deepavali Video
+
+{{< video images/deepavali_video.mp4 width="700" height="500">}}
+
+### Christmas Photo
+
+![](images/christmas_dance.jpg){fig-alt="Pictures of me with the dance fitness community taken during an advanced Chirstmas celebration workout." fig-align="center" width="70%"}
+
+### Christmas Video
+
+{{< video images/christmas_video.mp4 width="300" height="500">}}
+:::
+:::
+:::
+
+::: cr-section
+## Reflections
+
+During reservist in 2021, a kind soul gave me a lift home from my
+reservist camp. While driving, he asked me what my hobbies were. "Not
+much." was my reply.<br><br>Despite being told by someone during my
+national service that I write interesting stories about myself, I am someone who
+personally avoid looking back about my life or writing reflections. This
+is mainly because I am afraid of being embarrassed or laughed at after
+sharing about own interests and hobbies. @cr-embarrass
+
+Like [Belle](https://disney.fandom.com/wiki/Belle){target="_blank"} from
+Disney’s [Beauty and the
+Beast](https://www.imdb.com/title/tt0101414/){target="_blank"}, I am
+always been seen as different from many people and find it hard to
+fit in.<br><br>For example, many of my colleagues works in [Python](https://www.python.org/){target="_blank"} but I
+work in [R](https://www.r-project.org/){target="_blank"}. Most of my friends goes to the gym and do combat fitness like
+kickboxing and martial arts but I prefer to go to a dance fitness
+classes. People I know like to play many kinds of PC/Xbox/Nintendo games from Pokémon to soccer but I collect
+[Precious Moments](https://www.preciousmoments.com/){target="_blank"}
+angel figurines. People I know goes for holidays during the November or December but I stay in Singapore and do caroling instead. People I know uses [Tiktok](https://www.tiktok.com/){target="_blank"} and [Instagram](https://www.instagram.com/){target="_blank"} to find the latest trends of things 
+but I use [X](https://x.com/?lang=en){target="_blank"} 
+and later [Linkedin](https://www.linkedin.com/){target="_blank"}, [Bluesky](https://bsky.app/){target="_blank"} and 
+[Fosstodon](https://fosstodon.org/){target="_blank"} instead. 
+The list can go on…<br><br>Sometimes, I find it hard to keep a conservation going 
+because usually the conversation ends abruptly after I have shared that I am not 
+working on the same thing or I do not know what kind of questions to ask because I have 
+no clue what the other party is talking about. @cr-eggs
+
+Yet looking back at what I have done in 2024, it appears that I have
+made a lot of decent achievements and self-fulfilling things in life.<br><br>It
+reminds me of the story about the professor showing a piece of white
+paper with a black dot to his students and asked them what do they see.
+Like the students, I was too blinded and preoccupied by my weaknesses
+and failings (represented by the black dot) that I failed to see the
+positive things I had done (represented by the white part of the paper)
+even though they were so many. @cr-black-dot
+
+Perhaps, I should focus more on taking my eyes away from the black dots
+in my life and learn to be more mindful about the blessings and moments
+in my life that makes be happy and satisfied. @cr-mindful
+
+The events in 2024 remind me that there are people out there who are 
+interested in the work that I do, will appreciate my talents and accepting to my short coming.
+I just need to have more self love, faith and courage to get up of my comfort zone to find, meet and hopefully have a fruitful relationship with them. @cr-self-love
+
+No matter how poor and unfair our lives can be, how much pain and
+suffering we are going through or how lonely and depressed we feel, our
+lives on earth are still a gift from God.<br><br>It is all right and normal to feel down, afraid or to be 
+not at our best sometimes. It is just part of being human. We should not be living life in the shadows. 
+As long as we are still alive, it is never too late to make the best use of it.<br><br><a href="#top">Back
+to top</a> @cr-life_is
+
+::: {#cr-embarrass .scale-to-fill}
+![Timid man covering face with hand and peeking through, embarrassing,
+feeling sorry, shying in
+[Vecteezy](https://www.vecteezy.com/vector-art/7938804-vector-concept-illustration-of-timid-man-covering-face-with-hand-and-peeking-through-embarrassing-feeling-sorry-shying-flat-cartoon-style){target="_blank"}](images/timid-man-covering-face.jpg){fig-alt="Cartoon of a timid man covering his face with his hand and peeking through." fig-align="center" width="70%"}
+:::
+
+::: {#cr-eggs .scale-to-fill}
+![Eggs in tray on white surface by [Daniel
+Reche](https://www.pexels.com/@daniel-reche-718241/){target="_blank"} in
+[Pexels](https://www.pexels.com/photo/eggs-in-tray-on-white-surface-1556707/){target="_blank"}](images/eggs_in_tray_on_white_surface.jpg){fig-alt="Cartoon of a few white eggs in an egg carton being hostile to a brown egg because it looks different." fig-align="center"}
+:::
+
+::: {#cr-black-dot .scale-to-fill}
+
+![Output from [Gemini 1.5 Flash](https://gemini.google.com/){target="_blank"} using prompt "Black pen making a dot on a white paper"](images/black_dot.jpg){fig-alt="Black pen making a dot on a white paper" fig-align="center"width="70%"}
+
+:::
+
+::: {#cr-mindful .scale-to-fill}
+
+![](images/mindful_1.jpg){fig-alt="Picture showing the values of mindfulness" fig-align="center" width="60%"}
+
+![](images/mindful_2.jpg){fig-alt="Picture showing the values of mindfulness in details" fig-align="center" width="60%"}
+
+:::
+
+::: {#cr-self-love .scale-to-fill}
+
+![](images/self_love.jpg){fig-alt="Picture of cards showing the need to have self love, take it easy and to have positive vibes." fig-align="center" width="80%"}
+
+:::
+
+::: {#cr-life_is .scale-to-fill}
+
+![Life is a gift from God poster from [Char Kantha Martin Facebook post](https://www.facebook.com/groups/620889571585087/posts/2293341987673162/){target="_blank"}](images/life_is.jpg){fig-alt="Infograph showing that each person is given the gift of life to live, learn and to live a legacy." fig-align="center"}
+
+:::
+
+:::
+
+## R Session and Packages Used
+
+Here are the R packages used.
+
+```{r}
+#| label: R Package Used
+#| title: "📦 R Packages Used"
+
+get_r_package_info <- function() {
+
+  r_package_table <- sessioninfo::package_info()
+  rownames(r_package_table) <- NULL
+
+  r_package_table <- r_package_table |>
+    tibble::as_tibble() |>
+    dplyr::mutate(
+      version = ifelse(is.na(r_package_table$loadedversion),
+                       r_package_table$ondiskversion,
+                       r_package_table$loadedversion)) |>
+    dplyr::filter(.data[["attached"]] == TRUE) |>
+    dplyr::select(
+      dplyr::any_of(c("package", "version",
+                      "date", "source"))
+    )
+
+  return(r_package_table)
+
+}
+
+get_r_package_info() |>
+  reactable::reactable(
+    defaultPageSize = 5,
+    paginationType = "jump",
+  )
+
+```
+
+Here is the R session used to generate this webpage.
+
+```{r}
+#| label: R Session Info
+#| title: "💻 R Session Info"
+
+get_quarto_version <- function(
+    test_sys_path = FALSE,
+    test_no_path = FALSE
+) {
+
+  # Taken from https://github.com/r-lib/sessioninfo/issues/75
+  if (isNamespaceLoaded("quarto") && isFALSE(test_sys_path)) {
+    path <- quarto::quarto_path() |>
+      fs::path_real()
+    ver <- system("quarto -V", intern = TRUE)
+    if (is.null(path) || isTRUE(test_no_path)) {
+      "NA (via quarto)"
+    } else {
+      paste0(ver, " @ ", path, "/ (via quarto)")
+    }
+  } else {
+    path <- Sys.which("quarto") |>
+      fs::path_real()
+    if (path == "" || isTRUE(test_no_path)) {
+      "NA"
+    } else {
+      ver <- system("quarto -V", intern = TRUE)
+      paste0(ver, " @ ", path)
+    }
+  }
+}
+
+
+get_knitr_version <- function() {
+
+  knitr_info <- "NA"
+
+  r_package_table <- sessioninfo::package_info(
+    pkgs = c("installed")
+  ) |>
+    dplyr::filter(.data[["package"]] == "knitr")
+
+  if (nrow(r_package_table) == 1) {
+
+    knitr_version <- r_package_table$loadedversion[1]
+    knitr_source <- r_package_table$source[1]
+
+    knitr_info <- paste0(
+      knitr_version, " from ",
+      knitr_source)
+  }
+
+  return(knitr_info)
+
+}
+
+get_r_platform_info <- function() {
+
+  r_platform_table <- sessioninfo::platform_info()
+  r_platform_table[["quarto"]] <- get_quarto_version()[1]
+  r_platform_table[["knitr"]] <- get_knitr_version()[1]
+
+  r_platform_table <- data.frame(
+    setting = names(r_platform_table),
+    value = unlist(r_platform_table,
+                   use.names = FALSE),
+    stringsAsFactors = FALSE
+  )
+
+  return(r_platform_table)
+}
+
+r_platform_table <- get_r_platform_info()
+
+r_platform_table |>
+  reactable::reactable(
+    defaultPageSize = 5,
+    paginationType = "jump",
+  )
+
+
+```
