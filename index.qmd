@@ -210,10 +210,8 @@ top</a> @cr-useR2024-book
 ![](images/useR!_2024.jpg){fig-alt="Picture of me in the useR! 2024 conference in Salzburg, Austria." fig-align="center"}
 :::
 
-::: {#cr-useR2024-present .scale-to-fill}
-<iframe width="1100" height="620" src="https://jauntyjjs.github.io/useR-2024/" title="Slides for Tackling Formatted Tabular Data from Excel.">
-
-</iframe>
+::: {#cr-useR2024-present}
+<iframe width="1100" height="620" src="https://jauntyjjs.github.io/useR-2024/" frameborder="0" scrolling="no" title="Slides for Tackling Formatted Tabular Data from Excel."></iframe>
 :::
 
 ::: {#cr-useR2024-book .scale-to-fill}
@@ -260,7 +258,7 @@ users in Singapore. This led to a series of events that caused the
 revivial of the [R User Group Singapore (RUGS)
 Meetup](https://www.meetup.com/r-user-group-sg/){target="_blank"} on
 November 2024 after its hiatus for a few years, in spite of limited
-experience and resources.<br><br><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7270729034731266048" height="500" width="400" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> @cr-rugs
+experience and resources.<br><br><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7270729034731266048" height="500" width="400" frameborder="0" allowfullscreen="" title="Nien Xian's post on R User Group Singapore Meetup on Linkedin"></iframe> @cr-rugs
 
 During the event, I had presented how to create a simple [Quarto
 dashboard](https://quarto.org/docs/dashboards/){target="_blank"} of
@@ -276,9 +274,7 @@ looks like<br><br><a href="#top">Back to top</a> @cr-rugs-dashboard
 :::
 
 ::: {#cr-rugs-present .scale-to-fill}
-<iframe width="1100" height="620" src="https://jauntyjjs.github.io/rugs_20241129" title="Slides for Introduction to Quarto Dashboard.">
-
-</iframe>
+<iframe width="1100" height="620" src="https://jauntyjjs.github.io/rugs_20241129" frameborder="0" scrolling="no" title="Slides for Introduction to Quarto Dashboard."></iframe>
 :::
 
 ::: {#cr-rugs-dashboard .scale-to-fill}
