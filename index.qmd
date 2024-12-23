@@ -215,7 +215,7 @@ gospel, spirituals category.<br><br><a href="#top">Back to top</a>
 On July, I was given the chance to attend the [useR! 2024
 conference](https://events.linuxfoundation.org/user/){target="_blank"}
 at Salzburg, Austria. I am grateful to the organizers for accepting my
-abstract and National Heart Centre Singapore for letting me spend some
+abstract and [National Heart Centre Singapore](https://www.nhcs.com.sg/){target="_blank"} for letting me spend some
 quality time with the R community. @cr-useR2024
 
 During the conference, I had presented some data extraction and
