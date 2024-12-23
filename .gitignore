@@ -8,3 +8,5 @@
 .DS_Store
 /renv/
 .Rdata
+/.quarto/
+/_site/
