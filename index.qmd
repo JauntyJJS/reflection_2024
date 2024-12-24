@@ -50,11 +50,9 @@ out_type <- knitr::opts_chunk$get("rmarkdown.pandoc.to")
 ![Woman writing a journal from [Healthy Living](https://stocksnap.io/author/healthyliving){target="_blank"} on
 [StockSnap.io](https://stocksnap.io/photo/woman-journal-YVBZKNTILS){target="_blank"} under [CC0 licence](https://creativecommons.org/publicdomain/zero/1.0/){target="_blank"}](reflection.jpg){fig-alt="A woman writing a journal." fig-align="center" width="70%"}
 
-As some of the people that I have followed ([Crystal Lewis](https://cghlewis.com/blog/year_2024/){target="_blank"} and [Ken Vũ](https://kvu777.quarto.pub/the-r-files/posts/every_data_point_everywhere_all_at_once/){target="_blank"}) on social media 
-have written their current life's journey and reflections for 2024 and I also wanted to try out the
-new [scrollytelling feature in
-Quarto](https://closeread.netlify.app/){target="_blank"}. 
-I have decided to try something new this year and write my own 2024 reflections using this new Quarto feature.
+I always wanted to try out the new [scrollytelling feature](https://closeread.netlify.app/){target="_blank"} in [Quarto](https://quarto.org/){target="_blank"}. However, I lack the inspiration and motivation to find something to write about. It is the holiday season and I wanted a take a break from working with data, especially after presenting one during the [R User Group Singapore (RUGS) November Meetup](https://www.meetup.com/r-user-group-sg/){target="_blank"}.
+
+After reading their 2024 life's journey and lessons of some of the people that I have followed ([Crystal Lewis](https://cghlewis.com/blog/year_2024/){target="_blank"} and [Ken Vũ](https://kvu777.quarto.pub/the-r-files/posts/every_data_point_everywhere_all_at_once/){target="_blank"}) on social media, I have decided to try something different this year and write my own 2024 reflections using this new Quarto feature.
 
 Here goes nothing...
 
@@ -85,9 +83,8 @@ attend the R for Data Science (R4DS) book club cohort 9, hosted by
 [Lydia](https://linktr.ee/lgibson7){target="_blank"} and
 [Ken](https://linktr.ee/kenvu){target="_blank"} since August 2023 at a
 weekly basis in the [Data Science Learning
-Community](https://dslc.io/){target="_blank"} (DSLC) slack
-group.<br><br>Join the DSLC slack page at
-[https://dslc.io/join](https://dslc.io/join){target="_blank"} @cr-DSLC
+Community](https://dslc.io/){target="_blank"} (DSLC) [slack
+group](https://dslc.io/join){target="_blank"}. @cr-DSLC
 
 It is hard for me to believe that I could stay on with this cohort till
 the end when the cohort had the last meeting around February 2024. I
@@ -559,7 +556,9 @@ Life is a gift from God poster from [Char Kantha Martin Facebook post](https://w
 
 :::
 
-## R Session and Packages Used
+## Meta Information
+
+Soruce code can be found in this [Github Page `r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/reflection_2024){target="_blank"}
 
 Here are the R packages used.
 
