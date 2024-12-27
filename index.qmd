@@ -1,7 +1,7 @@
 ---
 title: Looking Back At 2024
 author: Jeremy Selva [`r fontawesome::fa(name = "linkedin", fill = "#0077ac")`](https://www.linkedin.com/in/jeremy-selva-085b9112a/){target="_blank"} <br> @JauntyJJS [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "fab fa-square-x-twitter", fill = "#000000")`](https://twitter.com/JauntyJJS){target="_blank"} [`r fontawesome::fa(name = "bluesky", fill = "#1084ff")`](https://bsky.app/profile/jauntyjjs.bsky.social){target="_blank"} [`r fontawesome::fa(name = "mastodon", fill = "#5f53e7")`](https://fosstodon.org/@JauntyJJS){target="_blank"} <br> <https://jeremy-selva.netlify.app/>{target="_blank"}
-date: 2024-12-26
+date: 2024-12-27
 date-format: "D[<sup style='font-size:65%;font-style:italic;'>th</sup>] MMMM YYYY"
 format: 
   closeread-html:
@@ -73,7 +73,9 @@ Here goes nothing...
     Meetup](#r-user-group-singapore-rugs-november-meetup)
 -   [Giving Back In December]
 -   [Dance Fitness Progress]
+-   [Precious Moments Angel Collection]
 -   [Reflections]
+-   [Meta Information]
 
 ::: cr-section
 ## R4DS Book Club Cohort 9
@@ -146,9 +148,9 @@ choir](https://linktr.ee/ntuchoir_alumni){target="_blank"}. For someone with lim
 seems like a miracle that I have been in this singing group for close to
 10 years. @cr-singonchoir
 
-For now, I belong to the Tenor section in the choir. @cr-singontenor
+For now, I belong to the Tenor section in the alumni choir. @cr-singontenor
 
-On April, the choir managed to have their own concert called Sing On 3:
+On April, the alumni choir managed to have their own concert called Sing On 3:
 Contemplation.<br><br>![](images/Sing_On_3.jpg){fig-alt="Poster of Sing On 3 Choir concert."}<br><br>Here is the
 [link](https://www.canva.com/design/DAGAhglonYU/s_2MjlLOdPU46IWf7_3jcg/view?utm_content=DAGAhglonYU&utm_campaign=designshare&utm_medium=link&utm_source=viewer){target="_blank"}
 to the program booklet. @cr-singonconcert
@@ -181,25 +183,24 @@ top</a> @cr-singonfriends
 ::: cr-section
 ## International Krakow Choir Festival *Cracovia Cantans* 2024
 
-I was then taken for a wild ride when the choir was preparing for a
+I was then taken for a wild ride when the alumni choir was preparing for a
 [choir
 competition](https://www.cracoviacantans.com/previous_editions2024.html){target="_blank"}
 in Krakow, Poland on June 2024. Practice during the period of May was
-intense as I was not used to learning and memorising scores for a very
-short time and was afraid that my body could not keep up with the long
+intense and was afraid that my body could not keep up with the long
 hours of singing. @cr-krakowperform
 
-Nevertheless, the choir managed to obtain a silver diploma in the mixed
+Nevertheless, the alumni choir managed to obtain a silver diploma in the mixed
 choir adults category and a gold diploma in the popular & folk music,
 gospel, spirituals category.<br><br><a href="#top">Back to top</a>
 @cr-krakowawards
 
 ::: {#cr-krakowperform .scale-to-fill}
-![](images/krakow_perform.jpg){fig-alt="Picture of the choir singing in the International Krakow Choir Festival Cracovia Cantans 2024."}
+![](images/krakow_perform.jpg){fig-alt="Picture of the alumni choir singing in the International Krakow Choir Festival Cracovia Cantans 2024."}
 :::
 
 ::: {#cr-krakowawards .scale-to-fill}
-![](images/krakow_awards.jpg){fig-alt="Picture of the choir with the diplomas in the International Krakow Choir Festival Cracovia Cantans 2024." fig-align="center" width="60%"}
+![](images/krakow_awards.jpg){fig-alt="Picture of the alumni choir with the diplomas in the International Krakow Choir Festival Cracovia Cantans 2024." fig-align="center" width="60%"}
 
 
 :::
@@ -332,7 +333,7 @@ However, after the Covid-19 pandemic, I was not able to do this for a few years 
 commitment and not being able to accumulate enough leave from work to help out as I only
 started by new job as a research officer in
 [National Heart Centre Singapore](https://www.nhcs.com.sg/){target="_blank"}
-in 2023.<br><br>This year, I feel blessed that I was able to return and help out once again.
+in 2023.<br><br>This year, I feel blessed that I am able to return and help out once again.
 There is always something magical in caroling that is able to connect people together.
 <br><br>Here are some videos and photos that was taken by some of the univeristy's choir members.<br><br><a href="#top">Back
 to top</a> @cr-carols
@@ -437,12 +438,69 @@ People participating together in a fitness dance class by [Freepik](https://www.
 :::
 
 ::: cr-section
+## Precious Moments Angel Collection
+
+:::{focus-on="cr-angelfav"}
+
+I do share the same interest as my mother since young. We both collect Precious Moments Figurines, especially the angelic ones.<br><br>Here are some of my mum's favourite which I brought for her during her birthday, Mother's Day or Christmas.<br>
+
+-  You Color My World With Your Love Figurine 740002
+-  A Family of Love, A Gift From Above 0000366
+-  I Love You Bunches 109034
+
+:::
+
+:::{focus-on="cr-angelset1"}
+
+I usually get these figurines as a second hand product from [Carousell](https://www.carousell.sg/){target="_blank"} as Precious Moments figurine collectors tend to sell their retired Precious Moments set for a cheaper price in this platform.<br>
+
+-  Sowing Seeds of Kindness 163856
+-  Some Plant Some Water But God Giveth The Increase 176958
+-  A Bouquet From God's Garden of Love 184268
+
+:::
+
+:::{focus-on="cr-angelset2"}
+
+This year, I am happy that I have managed to complete the 2004 Heavenly Angels (representing Joy, Peace and Love) set.<br>
+
+-  Simple Joys Put a Song in Your Heart 117794
+-  All Wrapped Up With Love 117795
+-  Bringing You The Gift Of Peace 117793
+
+The last angel on the right is called<br>
+
+-  My Peace I Give Unto Thee 610047
+
+<br><a href="#top">Back to top</a>
+:::
+
+::: {#cr-angelfav .scale-to-fill}
+
+![](images/angels_favourite.jpg){fig-alt="My mother's favourite Precious Moments Figurines." fig-align="center"}
+:::
+
+::: {#cr-angelset1 .scale-to-fill}
+
+![](images/angels_set_1.jpg){fig-alt="A set of three angels as gardeners." fig-align="center"}
+
+:::
+
+::: {#cr-angelset2 .scale-to-fill}
+
+![](images/angels_set_2.jpg){fig-alt="A set of three heavenly angels and an angel holding a sheep." fig-align="center"}
+
+:::
+
+:::
+
+::: cr-section
 ## Reflections
 
 During reservist in 2021, a kind soul gave me a lift home from my
 reservist camp. While driving, he asked me what my hobbies were. "Not
 much." was my reply.<br><br>Despite being told by an instructor during my
-national service that I write interesting stories about myself, I am someone who
+national service that I write "interesting stories" about myself, I am someone who
 personally avoid looking back about my life or writing reflections. This
 is mainly because I am afraid of being embarrassed or laughed at after
 sharing about own interests and hobbies. @cr-embarrass
@@ -678,3 +736,5 @@ r_platform_table |>
 
 
 ```
+
+<br><a href="#top">Back to top</a>
